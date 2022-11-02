@@ -1,0 +1,62 @@
+* {
+    background-color: rgb(87, 84, 84);
+}
+
+body {
+    margin: 10px 60px;
+}
+
+a {
+    text-decoration: none;
+    color: #f10a0a;
+}
+
+h1 {
+    background-color: #086083;
+    color: black;
+}
+
+h4 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+textarea {
+    width: 80%;
+    height: 80px;
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+}
+
+.top-bar {
+    background-color: #086083;
+    padding: 0 40px;
+}
+
+.main {
+    padding: 10px 15px;
+}
+
+.comments {
+    margin: 40px 0;
+}
+
+.row {
+    padding: 5px 0;
+}
+
+.bottom, .top-comment {
+    color: #34a0f8;
+    display: flex;
+    font-size: 12px;
+}
+
+.timestamp {
+    padding-right: 10px;
+}
